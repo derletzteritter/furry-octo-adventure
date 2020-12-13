@@ -1,0 +1,23 @@
+{
+  "name": "furry-octo-adventure",
+  "version": "1.0.0",
+  "description": "A discord bot in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itschip/furry-octo-adventure.git"
+  },
+  "author": "Christopher Gjelten (chip)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itschip/furry-octo-adventure/issues"
+  },
+  "homepage": "https://github.com/itschip/furry-octo-adventure#readme",
+  "dependencies": {
+    "@types/node": "^14.14.11",
+    "discord.js": "^12.5.1"
+  }
+}
